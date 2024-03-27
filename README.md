@@ -1,0 +1,2 @@
+# SalgueirosFC
+Controle de confirmação
